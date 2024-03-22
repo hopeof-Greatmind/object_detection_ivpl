@@ -1,3 +1,6 @@
+''' Modified by Prof. Kim on 2024. 03. 22 for our great student 
+in Sookmyung Women's Univeristy'''
+
 import os
 import glob
 import pandas as pd
