@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+''' Modified by Prof. Kim on 2024. 04. 17 for our great student 
+in Sookmyung Women's Univeristy'''
+
 import os
 import glob
 import time
